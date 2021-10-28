@@ -11,7 +11,7 @@
 Phi merupakan nilai konstanta dalam matematika yang merupakan perbandingan keliling lingkaran dengan diameternya. phi memiliki nilai 3,14 atau 22/7. namun program ini saya buat menggunakan nilai 3,14. Sementara jari-jari merupakan jarak antara titik pusat dengan tepi lingkaran. Sebetulnya ada rumus lain untuk menghitung keliling lingkaran yaitu dengan menggunakan diameter, tapi pada kasus ini kita cukup menggunakan jari jari lingkaran saja. <p>
 
 ### Flowchart Menghitung Luas Dan Keliling lingkaran
-!
+![]
 
 ### Program Menghitung Luas Dan Keliling Lingkaran
 !
