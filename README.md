@@ -11,10 +11,10 @@
 Phi merupakan nilai konstanta dalam matematika yang merupakan perbandingan keliling lingkaran dengan diameternya. phi memiliki nilai 3,14 atau 22/7. namun program ini saya buat menggunakan nilai 3,14. Sementara jari-jari merupakan jarak antara titik pusat dengan tepi lingkaran. Sebetulnya ada rumus lain untuk menghitung keliling lingkaran yaitu dengan menggunakan diameter, tapi pada kasus ini kita cukup menggunakan jari jari lingkaran saja. <p>
 
 ### Flowchart Menghitung Luas Dan Keliling lingkaran
-![]
+![gambar 2](screenshot/lingkaran2.png)
 
 ### Program Menghitung Luas Dan Keliling Lingkaran
-!
+![gambar 3](screenshot/lingkaran3.png)
 
 ### Penjelasan
 Selanjutnya kita memerlukan nilai jari-jari (r) yang nantinya akan di masukan oleh pengguna pada layar console. Kita menggunakan fungsi input() yang nilainya di konversi ke tipe data float (bilangan riil). Ingat bahwa fungsi input() akan menganggap semua nilai inputan bertipe string, sehingga kita perlu melakukan konversi ke tipe yang diinginkan. <p>
@@ -26,6 +26,6 @@ Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan k
 Jika dilihat hasil luas dan keliling lingkaran mempunyai angka pecahan yang cukup banyak, untuk mengambil 2 angka pecahan saja kita pakai fungsi format() seperti gambar di atas. <p>
 
 ### Output
-!
+![gambar 4](screenshot/lingkaran4.png)
 
 ### Sekian Terima Kasih
